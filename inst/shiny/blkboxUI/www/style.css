@@ -1,0 +1,118 @@
+.selectize-input, .selectize-dropdown {
+  font-size: 10pt;
+}
+
+body {
+  background-image: url("bg.jpg");
+  color: #FFF;
+}
+
+div#xxx {
+    width: 400px;
+}
+
+#header {
+  color: #FFF;
+}
+
+.container-fluid {
+    display: table;
+}
+
+.selectize-dropdown, .selectize-input, .selectize-input {
+    line-height: 13pt;
+}
+
+.selectize-input {
+    min-height: 13pt;
+}
+
+div#code_well {
+    margin-top: 5px;
+}
+
+button#viewpane_on {
+    display: inherit;
+    margin-top: 5px;
+}
+
+
+button#model_on {
+    display: inherit;
+    margin-top: 5px;
+}
+
+.form-control {
+    font-size: 10pt;
+    height: 25pt;
+}
+
+.irs-bar {
+    height: 8px;
+    top: 25px;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    background: #000000;
+}
+
+.irs-bar-edge {
+    border: 1px solid #000000;
+    background: #000000;
+}
+
+.irs-from, .irs-to, .irs-single {
+}
+
+.selectize-input.focus {
+    border-color: #626d75;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(116, 120, 123, 0.6);
+}
+
+.h1, h1 {
+    text-align: center;
+}
+
+div#varSel {
+  float:left;
+  display:inline;
+}
+
+
+div#viewpane {
+  display:inline;
+  float:left;
+
+}
+
+#panel1  {
+  position: relative !important;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.irs-from, .irs-to, .irs-single {
+    background: #000000;
+}
+
+.well {
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.35);
+    border: 1px solid rgba(0, 0, 0, 1.0);
+    width: 240px;
+}
+
+.form-group {
+    margin-bottom: -10px;
+}
+
+.well .form-group {
+    margin-bottom: 4px;
+}
+
+.irs-min, .irs-max {
+    color: #fff;
+    font-size: 12px;
+    background: rgba(255, 251, 251, 0.25);
+}
